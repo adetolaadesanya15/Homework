@@ -1,0 +1,10 @@
+question1 = int(input('What is your name'))
+
+print('''
+''')
+question2 = int(input('What 100 + 100 '))
+
+print(f'''We just {question1},
+he told us the answer for question 1 and question 2
+
+thank you for answering are questions''')
