@@ -4,8 +4,8 @@ print('''
 ''')
 question2 = int(input('What 100 + 100 '))
 
-print(f'''We just {question1},
-he told us the answer for question 1 and question 2
+print(f'''He or she just told us his name his or her name is {question1},
+he told us what is {question2}
 
 thank you for answering are questions''')
 
